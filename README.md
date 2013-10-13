@@ -1,6 +1,8 @@
-# Custom Segue and Unwind Segue with animation
+# Animated Custom Segue and Unwind Segue
 
-Example of animating a transition from one View Controller to another with a custom segue and a custom unwind segue.
+An example of animating a transition from one iPhone View Controller to another with a custom segue and a custom unwind segue.
+
+Requires Xcode 5 and iOS 7.
 
 
 ***
